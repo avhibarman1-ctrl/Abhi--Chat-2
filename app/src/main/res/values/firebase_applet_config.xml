@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="firestore_database_id" translatable="false">ai-studio-android-abhichat-2a27bc98-6af5-4b8e-a3af-13bd94c7be84</string>
+    <string name="recaptcha_site_key" translatable="false">6LcnWi4uAAAAABHutJ7zNQs_hMIaWWHiRSTKkXwD</string>
+</resources>
